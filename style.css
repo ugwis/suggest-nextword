@@ -1,0 +1,35 @@
+main {
+	width: 800px;
+	height: 600px;
+	margin: 0px auto;
+}
+textarea {
+	width:800px;
+	height:200px;
+}
+
+dl{
+	width:800px;
+}
+
+dt {
+	clear:both;
+	width:700px;
+	margin:0px;
+	padding:0px;
+	float:left;
+	border-bottom:1px solid #ccc;
+	margin-bottom:20px;
+}
+
+dt:hover {
+	background: #ccc;
+}
+
+dd {
+	width:100px;
+	float:right;
+	border-bottom:1px solid #ccc;
+	margin:0px;
+	padding:0px;
+}

@@ -1,0 +1,6 @@
+[submodule "kuromoji.js"]
+	path = kuromoji.js
+	url = https://github.com/takuyaa/kuromoji.js.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
